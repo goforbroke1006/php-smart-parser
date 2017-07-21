@@ -1,0 +1,5 @@
+/.idea/
+/vendor/
+chromedriver*
+composer.phar
+selenium-server-standalone.jar

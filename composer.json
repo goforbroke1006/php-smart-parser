@@ -1,0 +1,22 @@
+{
+  "name": "goforbroke1006/smart-parser",
+  "description": "WebDriver-based sites parser",
+  "type": "project",
+  "require": {
+    "facebook/webdriver": "^1.4",
+    "symfony/yaml": "^3.3"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Sergey Cherkesov",
+      "email": "go.for.broke1006@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "autoload": {
+    "psr-4": {
+      "": "src/"
+    }
+  }
+}

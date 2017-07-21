@@ -1,0 +1,6 @@
+smart-parser:
+
+  grabber_strategies:
+      - SmartParserApp\Grabber\UnizooRu
+
+  storage_strategies: []
